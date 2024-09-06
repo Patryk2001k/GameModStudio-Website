@@ -26,8 +26,5 @@ npm start
 
 Open your browser and navigate to http://localhost:3000/gamemodstudio.
 
-## Contributing
-Feel free to fork this project and submit pull requests. Any contributions are welcome!
-
 ## License
 This project is licensed under the MIT License.
