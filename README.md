@@ -1,12 +1,8 @@
 # GameMod Studio
 
-Welcome to **GameMod Studio**, a platform for creating and managing mods for your favorite games.
-
-## Features
-
-- **Custom Server Lists:** Manage and browse game servers easily.
-- **Mod Integration:** Add and customize mods directly through the interface.
-- **Responsive UI:** Clean and functional design for both desktop and mobile users.
+GameMod studio is my website created in React + TailwindCSS for my services which i do. I make game servers and mods for two game mainly:
+Garrysmod
+Arma 3
 
 ## Live Website
 
@@ -17,28 +13,21 @@ Check out the live version of the site here: [GameMod Studio](https://gamemodstu
 To run this project locally:
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/your-username/gamemodstudio.git
-Navigate to the project directory:
-bash
-Skopiuj kod
+
+### Navigate to the project directory:
 cd gamemodstudio
-Install dependencies:
-bash
-Skopiuj kod
+
+### Install dependencies:
 npm install
-Start the development server:
-bash
-Skopiuj kod
+
+### Start the development server:
 npm start
-Open your browser and navigate to http://localhost:3000.
-Technologies Used
-React: Frontend framework
-Tailwind CSS: For styling
-EmailJS: For sending emails from the contact form
-Netlify: Hosting
-Contributing
+
+Open your browser and navigate to http://localhost:3000/gamemodstudio.
+
+## Contributing
 Feel free to fork this project and submit pull requests. Any contributions are welcome!
 
-License
+## License
 This project is licensed under the MIT License.
