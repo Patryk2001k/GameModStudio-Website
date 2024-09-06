@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gamemodstudio/static/css/main.ee6071d9.css",
+    "main.js": "/gamemodstudio/static/js/main.f533900c.js",
+    "static/js/453.cd056a50.chunk.js": "/gamemodstudio/static/js/453.cd056a50.chunk.js",
+    "static/media/Garry1.jpg": "/gamemodstudio/static/media/Garry1.3d0aea86b58c2d0207d3.jpg",
+    "static/media/Arma3-3.jpg": "/gamemodstudio/static/media/Arma3-3.982b74352a164a4d624b.jpg",
+    "static/media/Arma3-2.jpg": "/gamemodstudio/static/media/Arma3-2.392a9d21c8a11678d182.jpg",
+    "static/media/Garry2.png": "/gamemodstudio/static/media/Garry2.eee1f5d0e0fe4e181624.png",
+    "static/media/Arma3-1.jpg": "/gamemodstudio/static/media/Arma3-1.50bb9952fa29a4f6b1ce.jpg",
+    "static/media/Garry3.jpg": "/gamemodstudio/static/media/Garry3.d261d6573db581b429ee.jpg",
+    "static/media/Logo.png": "/gamemodstudio/static/media/Logo.d7fa57270a35365e3519.png",
+    "index.html": "/gamemodstudio/index.html",
+    "main.ee6071d9.css.map": "/gamemodstudio/static/css/main.ee6071d9.css.map",
+    "main.f533900c.js.map": "/gamemodstudio/static/js/main.f533900c.js.map",
+    "453.cd056a50.chunk.js.map": "/gamemodstudio/static/js/453.cd056a50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee6071d9.css",
+    "static/js/main.f533900c.js"
+  ]
+}
